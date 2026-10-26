@@ -21,6 +21,6 @@ I'm a software engineer passionate about building scalable web applications, AI-
 Building production-ready software and continuously improving my skills in full-stack development, AI engineering, and system design.
 
 ### 🤝 Let's Connect
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@uditsinghs](https://github.com/uditsinghs)
 
 **Code. Learn. Build. Repeat.** 🚀
